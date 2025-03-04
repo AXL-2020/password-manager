@@ -1,0 +1,1 @@
+# Secure Local Password Manager
