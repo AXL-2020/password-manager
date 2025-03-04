@@ -9,3 +9,5 @@
 *.exe
 *.db
 x64/
+x64/
+Secure Password Manager/x64/
