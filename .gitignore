@@ -3,3 +3,8 @@
 *.pdb
 *.exe
 *.db
+.vs/
+*.ipch
+*.pdb
+*.exe
+*.db
